@@ -1,2 +1,0 @@
-# localledger-doc
-
